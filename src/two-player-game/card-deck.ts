@@ -1,6 +1,6 @@
-import {Card} from "./two-player-game/card";
+import {Card} from "./card";
 
-export class cardDeck{
+export class CardDeck{
     cards: Card[] = [];
 
     constructor() {
